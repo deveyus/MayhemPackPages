@@ -1,0 +1,13 @@
+name = "Simple Chunk Loaders"
+filename = "simplechunkloaders-1.16.5-1.0.9.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f40ee2aa7d7db72b398224b064320d05bce43277"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3362958
+project-id = 360205

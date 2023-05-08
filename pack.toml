@@ -1,0 +1,13 @@
+name = "Frenpack"
+author = "Deveyus"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1001da5e817a19aef1d1faa61b17b406a02e7006471be65369672a980187dfa0"
+
+[versions]
+forge = "36.2.34"
+minecraft = "1.16.5"

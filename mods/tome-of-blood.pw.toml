@@ -1,0 +1,13 @@
+name = "Tome of Blood"
+filename = "tomeofblood-1.16.5-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66999e667bd8db1a59ddd989f31218fad03573bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3487391
+project-id = 438240

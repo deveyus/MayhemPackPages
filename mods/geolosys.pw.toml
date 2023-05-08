@@ -1,0 +1,13 @@
+name = "Geolosys"
+filename = "Geolosys-1.16.5-6.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e5b93519554287fcfe2970bb8a63d5a560f3199"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3824590
+project-id = 271856

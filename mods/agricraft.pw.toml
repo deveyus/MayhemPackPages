@@ -1,0 +1,13 @@
+name = "AgriCraft"
+filename = "agricraft-3.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6ba96e52543e2dc18cfc2d1c2cf8b5ac61586a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3809887
+project-id = 225635
