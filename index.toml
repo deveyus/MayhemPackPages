@@ -181,6 +181,11 @@ hash = "f2350939f2daf3a8712d7fd0ae7c4594eb4a3b4aae78e46d3b506503f22205be"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "7edc90a4c9d38b882798d87a444e87893597bcab46a9e5226c8f83d9515c895c"
+metafile = true
+
+[[files]]
 file = "mods/morph-o-tool.pw.toml"
 hash = "af9ee65be5421e82cba68812567e64087314e5bb73dca1f9f4b66857e6b9dcb4"
 metafile = true
@@ -298,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/the-one-probe.pw.toml"
 hash = "7fb57ea0506bf6ee41a93cb60745adc9d7ba1055ac14135ff311c5fdd3efbe44"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "1dda287b20d9afec27864e9625dc7c4017f66ece39e117c10dcd97edc42c68a3"
 metafile = true
 
 [[files]]
