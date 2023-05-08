@@ -316,6 +316,11 @@ hash = "7f130c2ac65bd0e30fc48feb615b731311eb3a11321f485f284f83991b9a8f65"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "246d2a9c8892c52cc1d8488ae897f84b36dc6bd1b8157c66d6f06aefbe39d204"
+metafile = true
+
+[[files]]
 file = "mods/valkyrielib.pw.toml"
 hash = "613f65b23c10ba4f7d3740f4f3deef9dfa034a3dd9216bf49a8e2637cfc862b4"
 metafile = true
