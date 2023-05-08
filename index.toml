@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/eccentric-tome.pw.toml"
-hash = "a7ae0d24c68308f34d66aff5e6dd51b9cd0481dd094e5e4eea16bcd742ce266e"
+hash = "66bf98a2e04cbdc792ef5d2e509f992d0c1ecdaf2598c62d0d0c9d9c4cdae589"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "11bb1ad79b3f0a4bbd8d4048039acdc76ef9762ea72656de6f288f8dcc581b3c"
+hash = "ee734719cbf3d54ffbc0d621a829430682cd486bcd6de0925329c5cfb7d5b8f1"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "f2350939f2daf3a8712d7fd0ae7c4594eb4a3b4aae78e46d3b506503f22205be"
+hash = "7e1e95fb8f654b0dafbef9bd62917eb1deaa29b2e7a78449bac1c77217238b89"
 metafile = true
 
 [[files]]
@@ -327,5 +327,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "68b1e8392b4fb92f508f07e84be52fd9add90da2f3ce1c333ba431f48f78d005"
+hash = "206e5e7674e36129d6407bd851cd791e21eba99baef369ccc454d56d1df6bc7e"
 metafile = true
